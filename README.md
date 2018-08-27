@@ -4,5 +4,5 @@
 | Participant   | Role       | ETC |
 |---------------|------------|-----|
 | Jaewoo Yang   | Instructor |     |
-| Onnoo         | Student    |     |
+| Choi Byoung ik| Student    |     |
 
